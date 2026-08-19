@@ -21,7 +21,7 @@ Record a place through selective memory rather than descriptive realism. Combine
 
 - Keep a continuous warm-paper border around the entire card.
 - Leave the left image completely unframed and visually dominant. Reserve only a shallow exposed-paper strip beneath it for the keyword footer.
-- Treat the six right-column stickers as memory fragments, not a catalog: use uneven scale, relaxed spacing, thick warm-white cut edges, and subtle flat shadows.
+- Treat the chosen three-to-six right-column stickers as distinct memory fragments, not a catalog: use uneven scale, relaxed spacing, thick warm-white cut edges, and subtle flat shadows. Do not repeat a subject in another crop or invent structure absent from the source.
 
 ## Avoid
 
